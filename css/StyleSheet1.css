@@ -1,0 +1,28 @@
+﻿.footerlinks {
+    color: #ffffff;
+    text-decoration: none !important;
+    display: inline-block;
+    margin-right: 40px;
+}
+.footerlinks2 {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+#footer1 {
+    background: #762b00;
+}
+#footer2 {
+    background: #531f00;
+}
+.img-container {
+    background-image: url('../imgs/homepage.jpg');
+    height: 200px; 
+    width: 100%; 
+    background-size: cover;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    color: white; 
+    
+}
